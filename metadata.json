@@ -1,0 +1,6 @@
+{
+  "name": "KaloriMetrik — Günlük Kalori ve Makro Hesaplayıcı",
+  "description": "BMR, TDEE, makro besin hedefleri ve kapsamlı Türk mutfağı besin veritabanı ile günlük kalori ve beslenme takip platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
